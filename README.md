@@ -1,4 +1,8 @@
-### Hi there 👋
+### Bonjour, what's up? 👋
+- 🤔 I’m looking for help with learning php and javascript, for now, more languages later 
+- 📫 How to reach me: chrisleejean@gmail.com
+- ⚽️ My favorite sport is soccer
+
 
 <!--
 **lee690/lee690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

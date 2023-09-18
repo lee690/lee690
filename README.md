@@ -1,5 +1,6 @@
-### Bonjour, what's up? 👋
-- 🤔 I’m looking for help with learning php and javascript, for now, more languages later 
+### Bonjour, que tal? 👋
+- 🤔 I’m looking for help with learning php and javascript, for now, more languages later
+- 🤹🏾 Also currently seeking my AWS Cloud Practioner Certification, you could say I juggle many hats or whatever...
 - 📫 How to reach me: chrisleejean@gmail.com
 - ⚽️ My favorite sport is soccer
 

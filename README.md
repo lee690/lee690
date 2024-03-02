@@ -1,9 +1,12 @@
 ### Bonjour, que tal? 👋
-- 🤔 I’m looking for help with learning php and javascript, for now, more languages later
-- 🤹🏾 Also currently seeking my AWS Cloud Practioner Certification, you could say I juggle many hats or whatever...
-- 📫 How to reach me: chrisleejean@gmail.com
-- ⚽️ My favorite sport is soccer
+- ☁️ AWS Certified Cloud Practitioner
+- 👨‍💻 Cloud Software Developer, seeking experience
+- 👨🏼‍🎨 UX/UI Designer
+- 🔭 I’m currently working on JP Morgan Chase SE program offered through Forage, check it out!
 
+In other words, Im always learning something lol
+- 📫 How to reach me: dev.cl.jean@gmail.com
+- Linkedin: https://www.linkedin.com/in/christopher-lee-jean/
 
 <!--
 **lee690/lee690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

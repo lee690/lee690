@@ -2,11 +2,11 @@
 - ☁️ AWS Certified Cloud Practitioner
 - 👨‍💻 Cloud Software Developer, seeking experience
 - 👨🏼‍🎨 UX/UI Designer
-- 🔭 I’m currently working on JP Morgan Chase SE program offered through Forage, check it out!
+- 🔭 I’m currently studying Prompt Engineering with the amazing book, Prompt Engineering for Generative AI by James Phoenix and Mike Taylor.
 
-In other words, Im always learning something lol
+In other words, Im always learning something!
 - 📫 How to reach me: dev.cl.jean@gmail.com
-- Linkedin: https://www.linkedin.com/in/christopher-lee-jean/
+- Let's Connect on Linkedin: https://www.linkedin.com/in/christopher-lee-jean/
 
 <!--
 **lee690/lee690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
